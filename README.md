@@ -1,6 +1,6 @@
 ### Reenu Mary Abraham
 ## Hello 👋
-I am Reenu, a computer engineering graduate from India, now living in Copenhagen. 
+I am Reenu, a computer engineering graduate from India, now living in Copenhagen and studying at Hack Your Future.
 # Skills
 - .Net, C#
 - Html , Javascript
